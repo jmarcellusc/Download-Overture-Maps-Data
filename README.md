@@ -6,7 +6,7 @@ This is a command-line executable that allows you to download geographical data 
 
 ## Documented Issues (Bugs)
 - **v1** - Unable to download: Transportation, Base, Division. Currently updating code.
-- **v1a** - Fix categories and product renamed.
+- **v1a** - **CURRENT**: Fix categories and product renamed.
 ## Features
 
 * **Direct Download:** Fetches data directly from Overture Maps' public datasets.
