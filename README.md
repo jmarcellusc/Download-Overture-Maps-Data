@@ -22,7 +22,18 @@ For more detailed information on attribution requirements, please refer to the o
 
 ## Getting Started
 
-Provide instructions on how to install and run the executable here. For example: "Download the latest release for your operating system from the [Releases](https://www.google.com/search?q=link-to-releases) page. Run the executable from your terminal: `./overture-downloader --type=buildings`"
+Instructions for this execuatable:
+ - !! Requires OvertureMaps be installed and PATH updated
+ - Requried Parameters
+     - Project Name <string>
+     - Bounding Coordinates 'min_long, min_lat, max_long, max_lat' <string> (can be aquired via http://bboxfinder.com/, make rectangle, copy box coords)
+     - Select Data Type: <Numeric Selection>
+    
+## Citation
+
+All methodlogy and data is from Overture Maps: 'Overture Maps Foundation, overturemaps.org'. Within their Attribution and Licensing, they state that data sourcs required thier own attribution and is found within a field of the data. 
+[Overture Maps](https://docs.overturemaps.org/attribution/)
+
 
 ## License
 
