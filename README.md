@@ -33,6 +33,6 @@ Instructions for this execuatable:
 
 All methodlogy and data is from Overture Maps: 'Overture Maps Foundation, overturemaps.org'. Within their Attribution and Licensing, they state that data sourcs required thier own attribution and is found within a field of the data. 
 
-[Overture Maps](https://docs.overturemaps.org/attribution/)
+[Overture Maps Attribution and Licensing](https://docs.overturemaps.org/attribution/)
 
 Data used in this project is sourced from the Overture Maps Foundation ([https://overturemaps.org/](https://overturemaps.org/)).
